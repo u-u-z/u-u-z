@@ -30,7 +30,6 @@
 ![iris](https://img.shields.io/badge/-iris-73CCDC?style=flat-square&logo=go&logoColor=white)
 ![beego](https://img.shields.io/badge/-beego-73CCDC?style=flat-square&logo=go&logoColor=white)
 ![gorm](https://img.shields.io/badge/-gorm-73CCDC?style=flat-square&logo=go&logoColor=white)
-![gorm](https://img.shields.io/badge/-gorm-73CCDC?style=flat-square&logo=go&logoColor=white)
   
 ![[Python] Python](https://img.shields.io/badge/-Python-339900?style=flat-square&logo=Python&logoColor=white)
 ![[Python] Flask](https://img.shields.io/badge/-Flask-339900?style=flat-square&logo=Python&logoColor=white)
