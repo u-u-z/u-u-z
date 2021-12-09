@@ -1,10 +1,7 @@
 # Hi there 👋 I'm RemiIO Scarlet
 
 ## Avatars (Animation/Kigurumi)
-<img alt="old" src="./img/old-2018.jpg" width="100"/>
-<img alt="old" src="./img/old-kig.jpg" width="100"/>
-<img alt="old" src="./img/RemiNew.png" width="100"/>
-<img alt="old" src="./img/current.jpg" width="100"/>
+<img alt="old" src="./img/old-2018.jpg" width="100"/> <img alt="old" src="./img/old-kig.jpg" width="100"/> <img alt="old" src="./img/RemiNew.png" width="100"/> <img alt="old" src="./img/current.jpg" width="100"/>
 
 ## Dev Env
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
