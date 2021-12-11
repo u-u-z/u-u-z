@@ -1,4 +1,5 @@
 # Hi there 👋 I'm RemiIO Scarlet
+<img alt="old" src="./img/picture.jpg" style="width:100%" />
 
 ## Avatars (Animation/Kigurumi)
 <img alt="old" src="./img/old-2018.jpg" width="100"/>
