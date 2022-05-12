@@ -1,6 +1,11 @@
 # Hi there 👋 I'm RemiIO Scarlet
 <img alt="old" src="./img/picture.jpg" height="300" />
 
+## Work on
+- [Hackplan](https://github.com/HackPlan) (2018.05-2021.09)
+- [Meta.io](https://github.com/Meta-Network) (2021.09-2022.03)
+- Working for a mysterious DeFi organization. (2022.03-today)
+
 ## Avatars (Animation/Kigurumi)
 <img alt="old" src="./img/old-2018.jpg" width="100"/> <img alt="old" src="./img/old-kig.jpg" width="100"/> <img alt="old" src="./img/RemiNew.png" width="100"/> <img alt="old" src="./img/current.jpg" width="100"/>
 
@@ -51,3 +56,5 @@
 ![GitHub Readme Stats][ReadmeStats-Image]
 
 [ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=u-u-z&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
+
+
