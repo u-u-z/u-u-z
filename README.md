@@ -1,15 +1,15 @@
-# Hi there 👋 I'm RemiIO Scarlet
+# 👋 Hi there I'm RemiIO Scarlet
 <img alt="old" src="./img/picture.jpg" height="300" />
 
-## Work on
+## 💼 Work on
 - [Hackplan](https://github.com/HackPlan) (2018.05-2021.09)
 - [Meta.io](https://github.com/Meta-Network) (2021.09-2022.03)
-- Working for a mysterious DeFi organization. (2022.03-today)
+- Working for a mysterious DeFi/Web3  organization. (2022.03-today)
 
-## Avatars (Animation/Kigurumi)
+## 👶 Avatars (Animation/Kigurumi)
 <img alt="old" src="./img/old-2018.jpg" width="100"/> <img alt="old" src="./img/old-kig.jpg" width="100"/> <img alt="old" src="./img/RemiNew.png" width="100"/> <img alt="old" src="./img/current.jpg" width="100"/>
 
-## Dev Env
+## 🔧 Dev Env
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-Mac_OS-AAA?style=flat-square&logo=macos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white)
@@ -18,9 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
-## Favorite
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+## 🍎 Favorite
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4D500?style=flat-square&logo=javascript&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat-square&logo=solidity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.JS-8CC03E?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-TailwindCss-26B7A4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-2A2B2D?style=flat-square&logo=react&logoColor=white)
@@ -28,7 +28,7 @@
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_On_Rails-C60000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-007096?style=flat-square&logo=mysql&logoColor=white)
 
-## Used
+## 🧾 Used
 ![JavaScript express](https://img.shields.io/badge/-expressjs-F4D500?style=flat-square&logo=javascript&logoColor=white)
 ![JavaScript eggjs](https://img.shields.io/badge/-eggjs-F4D500?style=flat-square&logo=javascript&logoColor=white)
 ![JavaScript koa2](https://img.shields.io/badge/-koa2-F4D500?style=flat-square&logo=javascript&logoColor=white)
@@ -49,10 +49,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-u-z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Disadvantages
+## 🌱 Disadvantages
 - I have not undergone systematic algorithm training, I need learn it;
 
-## Stats
+## 📈 Stats
 ![GitHub Readme Stats][ReadmeStats-Image]
 
 [ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=u-u-z&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
