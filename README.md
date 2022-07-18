@@ -1,4 +1,4 @@
-# 👋 Hi there I'm Remi.
+# 👋 Hi there I'm Remi. 🦇
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4D500?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
