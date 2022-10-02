@@ -21,6 +21,7 @@
 - [Hackplan](https://github.com/HackPlan) (2018.05-2021.09)
 - [Meta.io](https://github.com/Meta-Network) (2021.09-2022.03)
 - Working for a mysterious DeFi/Web3 organization. (2022.03-2022.09)
+- Try to Web3 startup 🚀 (2022.09 - now) 
 
 ## 💪 SKILL DESCRIPTIONS
 
