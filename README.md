@@ -17,6 +17,9 @@
 ```
 <img alt="old" src="./img/picture.jpg" height="250" />
 
+## 🖥 ASCIICAST
+[![asciicast](https://asciinema.org/a/B8g9pFRslFCGXfWEyBpWcsBX5.svg)](https://asciinema.org/a/B8g9pFRslFCGXfWEyBpWcsBX5)
+
 ## 💼 WORKING ON
 - [Hackplan](https://github.com/HackPlan) (2018.05-2021.09)
 - [Meta.io](https://github.com/Meta-Network) (2021.09-2022.03)
