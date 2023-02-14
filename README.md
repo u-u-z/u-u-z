@@ -24,7 +24,8 @@
 - [Hackplan](https://github.com/HackPlan) (2018.05-2021.09)
 - [Meta.io](https://github.com/Meta-Network) (2021.09-2022.03)
 - Working for a mysterious DeFi/Web3 organization. (2022.03-2022.09)
-- Try to [Web3 startup 🚀](https://github.com/Gensokyo-web3) (2022.09 - now) 
+- <del>Try to [Web3 startup 🚀](https://github.com/Gensokyo-web3) (2022.09 - 2023.01)</del> <span style="color: #ff0000">failure</span>
+- [Limit LAB](https://github.com/Limit-LAB) (2023.01-now)
 
 ## 💪 SKILL DESCRIPTIONS
 
@@ -84,8 +85,8 @@ IDE & Tools:
 ![[Python] Bottle](https://img.shields.io/badge/-Bottle-339900?style=flat-square&logo=Python&logoColor=white)
 ![[Python] Django](https://img.shields.io/badge/-Django-339900?style=flat-square&logo=Python&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-u-z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-u-z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 ## 🌱 DISADVATAGES
 - I have not undergone systematic algorithm training, I need learn it;
 
