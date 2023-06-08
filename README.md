@@ -21,11 +21,12 @@
 [![asciicast](https://asciinema.org/a/4wD0kCW0AZEf5Vwb2pA2Izoaj.svg)](https://asciinema.org/a/4wD0kCW0AZEf5Vwb2pA2Izoaj?autoplay=1)
 
 ## 💼 WORKING ON
-- [Hackplan](https://github.com/HackPlan) (2018.05-2021.09)
-- [Meta.io](https://github.com/Meta-Network) (2021.09-2022.03)
-- Working for a mysterious DeFi/Web3 organization. (2022.03-2022.09)
-- <del>Try to [Web3 startup 🚀](https://github.com/Gensokyo-web3) (2022.09 - 2023.01)</del> <span style="color: #ff0000">failure</span>
-- [Limit LAB](https://github.com/Limit-LAB) (2023.01-now)
+- [Hackplan](https://github.com/HackPlan) (05.18-09/21)
+- [Meta.io](https://github.com/Meta-Network) (09/21-03/22)
+- Working for a mysterious DeFi/Web3 organization. (03/22-09/22)
+- <del>Try to [Web3 startup 🚀](https://github.com/Gensokyo-web3) (09/22-01/22)</del> <span style="color: #ff0000">failure</span>
+- [Limit LAB](https://github.com/Limit-LAB) (01/23-06/23)
+- ... new startup ...
 
 ## 💪 SKILL DESCRIPTIONS
 
