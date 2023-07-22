@@ -27,7 +27,7 @@
 - <del>Try to [Web3 startup 🚀](https://github.com/Gensokyo-web3) (09/22-01/22)</del> <span style="color: #ff0000">failure</span>
 - [Limit LAB](https://github.com/Limit-LAB) (01/23-06/23)
 - [Santouka Studio](https://github.com/santouka)(03/23-07/23)
-- ... new startup ...
+- [KigLand Kigurumi studio](https://github.com/kigland)(07/23-now)
 
 ## 💪 SKILL DESCRIPTIONS
 
