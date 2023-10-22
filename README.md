@@ -21,7 +21,7 @@
 [![asciicast](https://asciinema.org/a/4wD0kCW0AZEf5Vwb2pA2Izoaj.svg)](https://asciinema.org/a/4wD0kCW0AZEf5Vwb2pA2Izoaj?autoplay=1)
 
 ## 💼 WORKING ON
-- [Hackplan](https://github.com/HackPlan) (05.18-09/21)
+- [Hackplan](https://github.com/HackPlan) (05/18-09/21)
 - [Meta.io](https://github.com/Meta-Network) (09/21-03/22)
 - Working for a mysterious DeFi/Web3 organization. (03/22-09/22)
 - <del>Try to [Web3 startup 🚀](https://github.com/Gensokyo-web3) (09/22-12/22)</del> <span style="color: #ff0000">failure</span>
