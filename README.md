@@ -1,5 +1,9 @@
 # 👋 Hi there I'm Remi. 🦇
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=u-u-z&row=1&column=8&no-frame=true&no-bg=true" alt="u-u-z"/>
+</div>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4D500?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat-square&logo=solidity&logoColor=white)
